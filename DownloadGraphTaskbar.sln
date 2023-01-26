@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleBarsGraph", "SimpleBarsGraph\SimpleBarsGraph.csproj", "{94FEFA0C-5FE3-413A-951F-ADB0666D941E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphTestForm", "GraphTestForm\GraphTestForm.csproj", "{B3C4D61E-38E4-47F1-B5FE-DBE8917FEFCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94FEFA0C-5FE3-413A-951F-ADB0666D941E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94FEFA0C-5FE3-413A-951F-ADB0666D941E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94FEFA0C-5FE3-413A-951F-ADB0666D941E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94FEFA0C-5FE3-413A-951F-ADB0666D941E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3C4D61E-38E4-47F1-B5FE-DBE8917FEFCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3C4D61E-38E4-47F1-B5FE-DBE8917FEFCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3C4D61E-38E4-47F1-B5FE-DBE8917FEFCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3C4D61E-38E4-47F1-B5FE-DBE8917FEFCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06FC2E13-0387-4EF5-83A2-D34499A29D97}
+	EndGlobalSection
+EndGlobal
