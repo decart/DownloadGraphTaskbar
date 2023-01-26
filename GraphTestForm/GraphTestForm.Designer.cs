@@ -36,8 +36,6 @@
             // 
             // testSimpleBarsGraphControl
             // 
-            this.testSimpleBarsGraphControl.BorderColor = System.Drawing.Color.DimGray;
-            this.testSimpleBarsGraphControl.GraphColor = System.Drawing.Color.DeepSkyBlue;
             this.testSimpleBarsGraphControl.Location = new System.Drawing.Point(152, 19);
             this.testSimpleBarsGraphControl.Name = "testSimpleBarsGraphControl";
             this.testSimpleBarsGraphControl.Scalable = true;

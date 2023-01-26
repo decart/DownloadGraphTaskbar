@@ -7,8 +7,8 @@ namespace SimpleBarsGraph
         private readonly List<long> _items = new();
         private long _maxValue;
         private int _borderWidth = 1;
-        private Color _borderColor = Color.DimGray;
-        private Color _graphColor = Color.Black;
+        private Color _borderColor = Color.DarkGray;
+        private Color _graphColor = Color.DeepSkyBlue;
         private VerticalAlignType _verticalAlign = VerticalAlignType.Bottom;
         private bool _scalable = false;
 
@@ -38,7 +38,7 @@ namespace SimpleBarsGraph
         }
 
         [Category("Appearance")]
-        [DefaultValue(typeof(Color), "Crimson")]
+        [DefaultValue(typeof(Color), "DeepSkyBlue")]
         public Color GraphColor
         {
             get => _graphColor;
